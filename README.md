@@ -1,3 +1,3 @@
 # Open Doc
 
-### An web-based collaborative open source code editor.
+An web-based collaborative open source code editor.
